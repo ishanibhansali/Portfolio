@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.fdac7d73.chunk.css",
+    "main.js": "/Portfolio/static/js/main.439110ab.chunk.js",
+    "main.js.map": "/Portfolio/static/js/main.439110ab.chunk.js.map",
+    "runtime-main.js": "/Portfolio/static/js/runtime-main.e440ee5a.js",
+    "runtime-main.js.map": "/Portfolio/static/js/runtime-main.e440ee5a.js.map",
+    "static/js/2.51a0b82a.chunk.js": "/Portfolio/static/js/2.51a0b82a.chunk.js",
+    "static/js/2.51a0b82a.chunk.js.map": "/Portfolio/static/js/2.51a0b82a.chunk.js.map",
+    "index.html": "/Portfolio/index.html",
+    "precache-manifest.3593c17afdb30025cb584a9ee5b2cad2.js": "/Portfolio/precache-manifest.3593c17afdb30025cb584a9ee5b2cad2.js",
+    "service-worker.js": "/Portfolio/service-worker.js",
+    "static/css/main.fdac7d73.chunk.css.map": "/Portfolio/static/css/main.fdac7d73.chunk.css.map",
+    "static/js/2.51a0b82a.chunk.js.LICENSE.txt": "/Portfolio/static/js/2.51a0b82a.chunk.js.LICENSE.txt",
+    "static/media/mdb.min.css": "/Portfolio/static/media/arrow_right.8ef6a08c.svg",
+    "static/media/eCommWeb.jpg": "/Portfolio/static/media/eCommWeb.d2eb6701.jpg",
+    "static/media/irispred.jpg": "/Portfolio/static/media/irispred.ac64493e.jpg",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.5d5d9eef.svg",
+    "static/media/sortvis.jpg": "/Portfolio/static/media/sortvis.a86d7575.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e440ee5a.js",
+    "static/js/2.51a0b82a.chunk.js",
+    "static/css/main.fdac7d73.chunk.css",
+    "static/js/main.439110ab.chunk.js"
+  ]
+}
